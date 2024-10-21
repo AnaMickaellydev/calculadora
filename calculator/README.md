@@ -1,6 +1,6 @@
 # 🧮 Calculadora em React + Vite
 
-Este projeto é uma calculadora interativa feita com **React** e **Vite**! Ela suporta operações matemáticas básicas e possui funcionalidades extras que tornam seu uso ainda mais conveniente 
+Este projeto é uma calculadora interativa feita com **React** e **Vite**! Ela suporta operações matemáticas básicas e possui funcionalidades extras.
 
 ## 🚀 Tecnologias Utilizadas
 
