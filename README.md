@@ -16,3 +16,4 @@ Este projeto é uma calculadora interativa feita com **React** e **Vite**! Ela s
 - **Apagar Dígito** ⌫: Remove o último dígito inserido.
 - **Interface Responsiva** 📱: Adapta-se para funcionar bem em diversos tamanhos de tela.
 
+![image](https://github.com/user-attachments/assets/c66faee5-61df-4c8a-8cf8-a651acebfc56)
